@@ -4,7 +4,9 @@ import (
 	"strconv"
 )
 
-func fizzbuzz(n int) string {
+// var FizzBuzz = fizzbuzz
+
+func FizzBuzz(n int) string {
 	// Atoi
 	// Itoa
 	if n%15 == 0 {
